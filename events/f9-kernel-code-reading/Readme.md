@@ -19,10 +19,11 @@
 
 ## 上機實作 hello thread
 * 在console 中，印出 “Thread for Hello World started.” 字串
-* 請參考 user/apps/pingpong 目錄中的main.c 及 build.mk 來建立 user/apps/hello
- 註：記得將修改 user/apps/build.mk
+* 請參考
+ - user/apps/pingpong 目錄中的main.c 及 build.mk
+ - 建立 user/apps/hello
+ - 註：記得將修改 user/apps/build.mk
  ex: 如只編譯 hello app
-
 ```
  user-apps-dirs = \
  hello
