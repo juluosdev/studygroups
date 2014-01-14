@@ -6,6 +6,7 @@
 
 ## 硬體需求
 * STM32F4-Dicovery 開發板
+
 * USB-to-TTL 線
 - 在ruten上搜尋 usb ttl  即可找到
 （EX：http://goods.ruten.com.tw/item/show?21209120416930）
@@ -17,9 +18,9 @@
 ## 上機實作 hello thread
 * 在console 中，印出 “Thread for Hello World started.” 字串
 * 請參考下列提示
- - user/apps/pingpong 目錄中的main.c 及 build.mk
- - 建立 user/apps/hello
- - 記得修改 user/apps/build.mk 將 hello apps 加入f9編譯
+- user/apps/pingpong 目錄中的main.c 及 build.mk
+- 建立 user/apps/hello
+- 記得修改 user/apps/build.mk 將 hello apps 加入f9編譯
 
    ex: 如只編譯 hello app
 
