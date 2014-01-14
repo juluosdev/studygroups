@@ -1,10 +1,13 @@
 # helper of STM32F4 development
 
 ## STM32F4-Discovery with f9-kernel
-* commands
+* stlink commands
+ you should downloaded [texane/stlink](https://github.com/texane/stlink) and complied.
+ the you can use the st-flash
 
 ```
- $ st-flash write 0x8000000 f9.bin
+ $ cd stlink
+ $ ./st-flash write 0x8000000 f9.bin
 ```
 
 * access serial console
@@ -32,3 +35,7 @@
  $ screen /dev/ttyUSB0 115200 8n1
 ```
  Once you want to quit screen app, press combine-key: CTRL+a k
+
+### References
+* Quick Start of [f9-kernel readme.md](https://github.com/f9micro/f9-kernel)
+* [texane/stlink](https://github.com/texane/stlink) - stm32 discovery line linux programmer
