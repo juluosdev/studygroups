@@ -1,4 +1,4 @@
-# LAB 1 Hello Thread
+# LAB 1: Practice Hello Thread
  本LAB旨在使參與成員，能開始熟悉F9 Microkernel 的開發環境。
  在 F9 Microkernel 中，先從實戰程式Hello Thread 開始。 
 
