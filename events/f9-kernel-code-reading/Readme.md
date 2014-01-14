@@ -19,7 +19,7 @@
 
 ## 上機實作 hello thread
 * 在console 中，印出 “Thread for Hello World started.” 字串
-* 請參考
+* 請參考下列提示
  - user/apps/pingpong 目錄中的main.c 及 build.mk
  - 建立 user/apps/hello
  - 記得修改 user/apps/build.mk 將 hello apps 加入f9編譯
