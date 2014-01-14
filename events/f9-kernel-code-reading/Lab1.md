@@ -1,6 +1,4 @@
-# Code Reading F9 Microkernel
-
-## LAB
+# LAB 1 Hello Thread
  本LAB旨在使參與成員，能開始熟悉F9 Microkernel 的開發環境。
  在 F9 Microkernel 中，先從實戰程式Hello Thread 開始。 
 
@@ -11,13 +9,23 @@
  - 在ruten上搜尋 usb ttl  即可找到
   （EX：http://goods.ruten.com.tw/item/show?21209120416930）
 
-* Preparation
+* 課前準備
  - 參考導讀活動 Part 1 簡報 先行下載 stlink, toolchain 及 上述 F9-kernel程式碼
 
  ```
  git clone https://github.com/texane/stlink.git
  ```
-## LABS
-* Lab1: practice hello thread, please reference Lab1.md
 
-* Lab2: practice Bit-Band, please reference Lab2.md
+## 上機實作 hello thread
+* 在console 中，印出 “Thread for Hello World started.” 字串
+* 請參考下列提示
+ - user/apps/pingpong 目錄中的main.c 及 build.mk
+ - 建立 user/apps/hello
+ - 記得修改 user/apps/build.mk 將 hello apps 加入f9編譯
+
+   ex: 如只編譯 hello app
+
+ ```
+ user-apps-dirs = \
+ hello
+ ```
