@@ -23,7 +23,8 @@
  - user/apps/pingpong 目錄中的main.c 及 build.mk
  - 建立 user/apps/hello
  - 記得修改 user/apps/build.mk 將 hello apps 加入f9編譯
- ex: 如只編譯 hello app
+
+   ex: 如只編譯 hello app
 
 ```
  user-apps-dirs = \
