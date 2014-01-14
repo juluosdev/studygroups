@@ -24,6 +24,7 @@
  - 建立 user/apps/hello
  - 註：記得將修改 user/apps/build.mk
  ex: 如只編譯 hello app
+
 ```
  user-apps-dirs = \
  hello
