@@ -6,11 +6,8 @@
 
 ## 硬體需求
 * STM32F4-Dicovery 開發板
-
-（請自行至天瓏書局購買）
-
 * USB-to-TTL 線
- 在ruten上搜尋 usb ttl  即可找到
+- 在ruten上搜尋 usb ttl  即可找到
 （EX：http://goods.ruten.com.tw/item/show?21209120416930）
 
 * 課前準備
