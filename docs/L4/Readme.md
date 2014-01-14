@@ -11,3 +11,4 @@
  - In April 2012, the L4Re core developers founded [Kernkonzept](http://www.kernkonzept.com/)
 * [OKL4](http://wiki.ok-labs.com/): [Open Kernel Labs](http://en.wikipedia.org/wiki/Open_Kernel_Labs) (a.k.a OK Labs)
  - acquired by [General Dynamics](http://en.wikipedia.org/wiki/General_Dynamics) in September 2012
+* [Genode](http://genode.org/) OS Framework: [Genode Labs](http://www.genode-labs.com/)
