@@ -1,5 +1,6 @@
 # Papers about L4 kernel
 
+* Nov 2013 / NICTA, UNSW: [From L3 to seL4: What Have We Learnt in 20 Years of L4 Microkernels?](http://sigops.org/sosp/sosp13/papers/p133-elphinstone.pdf)
 * Mar 2005 / UNSW: [A PHYSICALLY-ADDRESSED L4 KERNEL](http://www.disy.cse.unsw.edu.au/theses_public/05/anourai.pdf) Abi Nourai
   - [f9-kernel](https://github.com/f9micro): `kernel/thread.c` referenced
 
